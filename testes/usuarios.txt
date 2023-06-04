@@ -1,0 +1,14 @@
+[
+    {
+        "ra": "1959599",
+        "email": "eduevaristo@gmail.com",
+        "senha": "5cc3d2d23a43b3acc067dc57ebeb3432ffdaeff2bb9a7f4ff3647a1ae4f052fb",
+        "confirmacao_senha": "5cc3d2d23a43b3acc067dc57ebeb3432ffdaeff2bb9a7f4ff3647a1ae4f052fb"
+    },
+    {
+        "ra": "1959599",
+        "email": "eduevaristo@gmail.com",
+        "senha": "5cc3d2d23a43b3acc067dc57ebeb3432ffdaeff2bb9a7f4ff3647a1ae4f052fb",
+        "confirmacao_senha": "5cc3d2d23a43b3acc067dc57ebeb3432ffdaeff2bb9a7f4ff3647a1ae4f052fb"
+    }
+]
